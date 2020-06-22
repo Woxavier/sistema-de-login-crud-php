@@ -5,3 +5,4 @@ Sistema simples de login desenvolvido durante a capacitação de PHP da InfoJR-U
 
 * Login de usuários
 * Validação de usuários
+* Criar, atualizar e remover
